@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kchelmi/React-Menu-Order/static/css/main.45341c96.chunk.css",
-    "main.js": "/kchelmi/React-Menu-Order/static/js/main.8c7d639c.chunk.js",
-    "main.js.map": "/kchelmi/React-Menu-Order/static/js/main.8c7d639c.chunk.js.map",
-    "runtime-main.js": "/kchelmi/React-Menu-Order/static/js/runtime-main.c0483f37.js",
-    "runtime-main.js.map": "/kchelmi/React-Menu-Order/static/js/runtime-main.c0483f37.js.map",
-    "static/js/2.dc47f8ec.chunk.js": "/kchelmi/React-Menu-Order/static/js/2.dc47f8ec.chunk.js",
-    "static/js/2.dc47f8ec.chunk.js.map": "/kchelmi/React-Menu-Order/static/js/2.dc47f8ec.chunk.js.map",
-    "index.html": "/kchelmi/React-Menu-Order/index.html",
-    "static/css/main.45341c96.chunk.css.map": "/kchelmi/React-Menu-Order/static/css/main.45341c96.chunk.css.map",
-    "static/js/2.dc47f8ec.chunk.js.LICENSE.txt": "/kchelmi/React-Menu-Order/static/js/2.dc47f8ec.chunk.js.LICENSE.txt",
-    "static/media/meals.b2762b4c.jpg": "/kchelmi/React-Menu-Order/static/media/meals.b2762b4c.jpg"
+    "main.css": "/kchelmi/React-App-Menu-Order/static/css/main.45341c96.chunk.css",
+    "main.js": "/kchelmi/React-App-Menu-Order/static/js/main.8c7d639c.chunk.js",
+    "main.js.map": "/kchelmi/React-App-Menu-Order/static/js/main.8c7d639c.chunk.js.map",
+    "runtime-main.js": "/kchelmi/React-App-Menu-Order/static/js/runtime-main.48a07b7f.js",
+    "runtime-main.js.map": "/kchelmi/React-App-Menu-Order/static/js/runtime-main.48a07b7f.js.map",
+    "static/js/2.dc47f8ec.chunk.js": "/kchelmi/React-App-Menu-Order/static/js/2.dc47f8ec.chunk.js",
+    "static/js/2.dc47f8ec.chunk.js.map": "/kchelmi/React-App-Menu-Order/static/js/2.dc47f8ec.chunk.js.map",
+    "index.html": "/kchelmi/React-App-Menu-Order/index.html",
+    "static/css/main.45341c96.chunk.css.map": "/kchelmi/React-App-Menu-Order/static/css/main.45341c96.chunk.css.map",
+    "static/js/2.dc47f8ec.chunk.js.LICENSE.txt": "/kchelmi/React-App-Menu-Order/static/js/2.dc47f8ec.chunk.js.LICENSE.txt",
+    "static/media/meals.b2762b4c.jpg": "/kchelmi/React-App-Menu-Order/static/media/meals.b2762b4c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0483f37.js",
+    "static/js/runtime-main.48a07b7f.js",
     "static/js/2.dc47f8ec.chunk.js",
     "static/css/main.45341c96.chunk.css",
     "static/js/main.8c7d639c.chunk.js"
