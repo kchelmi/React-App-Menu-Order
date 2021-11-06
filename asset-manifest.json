@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-App-Menu-Order/static/css/main.45341c96.chunk.css",
-    "main.js": "/React-App-Menu-Order/static/js/main.8c7d639c.chunk.js",
-    "main.js.map": "/React-App-Menu-Order/static/js/main.8c7d639c.chunk.js.map",
+    "main.css": "/React-App-Menu-Order/static/css/main.6afbadee.chunk.css",
+    "main.js": "/React-App-Menu-Order/static/js/main.e955079b.chunk.js",
+    "main.js.map": "/React-App-Menu-Order/static/js/main.e955079b.chunk.js.map",
     "runtime-main.js": "/React-App-Menu-Order/static/js/runtime-main.4320df2d.js",
     "runtime-main.js.map": "/React-App-Menu-Order/static/js/runtime-main.4320df2d.js.map",
-    "static/js/2.dc47f8ec.chunk.js": "/React-App-Menu-Order/static/js/2.dc47f8ec.chunk.js",
-    "static/js/2.dc47f8ec.chunk.js.map": "/React-App-Menu-Order/static/js/2.dc47f8ec.chunk.js.map",
+    "static/js/2.f792457a.chunk.js": "/React-App-Menu-Order/static/js/2.f792457a.chunk.js",
+    "static/js/2.f792457a.chunk.js.map": "/React-App-Menu-Order/static/js/2.f792457a.chunk.js.map",
     "index.html": "/React-App-Menu-Order/index.html",
-    "static/css/main.45341c96.chunk.css.map": "/React-App-Menu-Order/static/css/main.45341c96.chunk.css.map",
-    "static/js/2.dc47f8ec.chunk.js.LICENSE.txt": "/React-App-Menu-Order/static/js/2.dc47f8ec.chunk.js.LICENSE.txt",
+    "static/css/main.6afbadee.chunk.css.map": "/React-App-Menu-Order/static/css/main.6afbadee.chunk.css.map",
+    "static/js/2.f792457a.chunk.js.LICENSE.txt": "/React-App-Menu-Order/static/js/2.f792457a.chunk.js.LICENSE.txt",
     "static/media/meals.b2762b4c.jpg": "/React-App-Menu-Order/static/media/meals.b2762b4c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4320df2d.js",
-    "static/js/2.dc47f8ec.chunk.js",
-    "static/css/main.45341c96.chunk.css",
-    "static/js/main.8c7d639c.chunk.js"
+    "static/js/2.f792457a.chunk.js",
+    "static/css/main.6afbadee.chunk.css",
+    "static/js/main.e955079b.chunk.js"
   ]
 }
